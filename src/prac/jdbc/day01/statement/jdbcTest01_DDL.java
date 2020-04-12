@@ -7,6 +7,7 @@ public class jdbcTest01_DDL {
 		//test
 		// https://github.com/nari-52/TIL.git
 		//test1
+		//change master test
 		
 		
 	}
