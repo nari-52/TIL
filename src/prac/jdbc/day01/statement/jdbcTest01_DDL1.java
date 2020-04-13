@@ -1,8 +1,6 @@
 package prac.jdbc.day01.statement;
 
-import java.util.*;
-
-public class jdbcTest01_DDL {
+public class jdbcTest01_DDL1 {
 
 	public static void main(String[] args) {
 		
@@ -106,5 +104,6 @@ public class jdbcTest01_DDL {
 
 }
 
+	}
 
-
+}
